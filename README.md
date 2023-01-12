@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/rqzu">
-        <img src="https://discord-readme.vercel.app/api/954616073876013056"/>
+        <img src="https://discord-readme.vercel.app/api/973439902320590908"/>
     </a>
 </p>
 
